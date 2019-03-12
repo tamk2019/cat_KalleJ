@@ -1,18 +1,18 @@
 # cat_KalleJ
 
-About cat
+## About cat
 
 cat reads data from files, and outputs their contents.
 
-cat syntax:
+## cat syntax:
 cat [OPTION]... [FILE]...
 
-Can be used to:
+## Can be used to:
 -Display text files
 -Copy text files into a new document
 -Append the contents of a text file to the end of another text file, combining them
 
-Examples:
+## Examples:
 
 Display a text file:
 cat mytext.txt
@@ -27,7 +27,7 @@ Append a text files content to another text file:
 cat mytext.txt >> another-text-file.txt
 
 
-Options:
+###### Options:
 
 -A, --show-all    Equivalent to -vET.
 
