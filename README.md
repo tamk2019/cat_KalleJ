@@ -32,24 +32,24 @@ cat mytext.txt >> another-text-file.txt
 
 ###### Options:
 
--A, --show-all    Equivalent to -vET.
+-A, --show-all  ||  Equivalent to -vET.
 
--b, --number-nonblank   Number non-empty output lines. This option overrides -n.
+-b, --number-nonblank ||  Number non-empty output lines. This option overrides -n.
 
--e    Equivalent to -vE.
+-e  ||  Equivalent to -vE.
 
--E, --show-ends   Display "$" at end of each line.
+-E, --show-ends ||  Display "$" at end of each line.
 
--n, --number    Number all output lines.
+-n, --number ||   Number all output lines.
 
--s, --squeeze-blank   Suppress repeated empty output lines.
+-s, --squeeze-blank ||  Suppress repeated empty output lines.
 
--t    Equivalent to -vT.
+-t  ||  Equivalent to -vT.
 
--T, --show-tabs   Display TAB characters as ^I.
+-T, --show-tabs ||  Display TAB characters as ^I.
 
--v, --show-nonprinting    Use ^ and M- notation, except for LFD and TAB.
+-v, --show-nonprinting  ||  Use ^ and M- notation, except for LFD and TAB.
 
---help    Display a help message, and exit.
+--help  ||  Display a help message, and exit.
 
---version   Output version information, and exit.
+--version ||  Output version information, and exit.
