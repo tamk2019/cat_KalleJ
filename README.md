@@ -8,8 +8,11 @@ cat reads data from files, and outputs their contents.
 cat [OPTION]... [FILE]...
 
 ## Can be used to:
+
 -Display text files
+
 -Copy text files into a new document
+
 -Append the contents of a text file to the end of another text file, combining them
 
 ## Examples:
