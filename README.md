@@ -7,7 +7,7 @@ cat reads data from files, and outputs their contents.
 ## cat syntax:
 cat [OPTION]... [FILE]...
 
-## Can be used to:
+## It can be used to:
 
 -Display text files
 
